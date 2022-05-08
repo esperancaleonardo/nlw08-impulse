@@ -28,8 +28,8 @@ clicáveis que redirecionam para algumas redes e aplicativos.
 
 ## Screenshots
 
-![App Screenshot](https://snipboard.io/DTJsOK.jpg)
-![App Screenshot](https://snipboard.io/zJ4o5d.jpg)
+![App Screenshot](https://snipboard.io/7NTKkh.jpg)
+![App Screenshot](https://snipboard.io/49YPrU.jpg)
 ![App Screenshot](https://snipboard.io/zNcTm1.jpg)
 
 
